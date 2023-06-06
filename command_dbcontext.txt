@@ -1,0 +1,4 @@
+
+Scaffold-DbContext "Data Source=HOST-GIO\SQLEXPRESS;Initial Catalog=CSTest; User Id=sa;Password=1234; TrustServerCertificate=true;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Model
+
+										

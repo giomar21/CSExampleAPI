@@ -1,0 +1,14 @@
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\bin\Debug\net6.0\CS.Example.Data.deps.json
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\bin\Debug\net6.0\CS.Example.Data.dll
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\bin\Debug\net6.0\CS.Example.Data.pdb
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\obj\Debug\net6.0\CS.Example.Data.csproj.AssemblyReference.cache
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\obj\Debug\net6.0\CS.Example.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\obj\Debug\net6.0\CS.Example.Data.AssemblyInfoInputs.cache
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\obj\Debug\net6.0\CS.Example.Data.AssemblyInfo.cs
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\obj\Debug\net6.0\CS.Example.Data.csproj.CoreCompileInputs.cache
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\obj\Debug\net6.0\CS.Example.Data.dll
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\obj\Debug\net6.0\refint\CS.Example.Data.dll
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\obj\Debug\net6.0\CS.Example.Data.pdb
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\obj\Debug\net6.0\ref\CS.Example.Data.dll
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\bin\Debug\net6.0\CS.Example.Data.runtimeconfig.json
+D:\GIT\CSV_BootCamp\CS.Example.API\CS.Example.Data\obj\Debug\net6.0\CS.Example.Data.genruntimeconfig.cache
